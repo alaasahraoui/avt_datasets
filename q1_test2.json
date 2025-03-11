@@ -1,0 +1,1768 @@
+[
+    {
+        "hits": {
+            "hits": [
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "23",
+                            "name": "Meghan",
+                            "gender": "Woman",
+                            "color": "#FFC7E8",
+                            "area": "Kensington",
+                            "birthplace": 2,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 8,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704151140000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 54,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "2f2349a6-d7dd-4c7a-9d1a-178e91c28070"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "46",
+                            "name": "Mary",
+                            "gender": "Woman",
+                            "color": "#BAE1FF",
+                            "area": "Kidbrooke",
+                            "birthplace": 1,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704151140000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 54,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "c01628e7-54e6-445a-a843-8f3814cef98d"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "27",
+                            "name": "Donald",
+                            "gender": "Man",
+                            "color": "#FFDAB3",
+                            "area": "Pimlico",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704225000000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 74,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "50a003b6-696b-4f9c-b31f-2e762171ec82"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704171900000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 9,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "82bbe08b-c6fc-4830-a445-5af409ca225a"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "27",
+                            "name": "Donald",
+                            "gender": "Man",
+                            "color": "#FFDAB3",
+                            "area": "Pimlico",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704162000000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 39,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "4eaf3484-bf16-4f82-ab18-9d5e24a5a5f4"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704161580000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 6,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "468382cf-730a-4f2c-95eb-62f2e19929a8"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704161580000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 6,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "a4920ec1-b97d-4c82-a3d3-ebea76cf11fe"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704205620000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 21,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "375edf51-820b-47e2-9661-d05b5a900eb4"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704194760000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 47,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "a601728e-0b39-4f87-acea-12a77809a19f"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "0",
+                            "name": "Lisa",
+                            "gender": "Woman",
+                            "color": "#FFB3BA ",
+                            "area": "Cyprus",
+                            "birthplace": 5,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 9,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704194760000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 47,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "bdea9f1f-cd57-496e-a869-cd177ad71207"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "27",
+                            "name": "Donald",
+                            "gender": "Man",
+                            "color": "#FFDAB3",
+                            "area": "Pimlico",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704194760000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 47,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "f64f01ad-416e-4d18-8f2d-1fa9e7390896"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "23",
+                            "name": "Meghan",
+                            "gender": "Woman",
+                            "color": "#FFC7E8",
+                            "area": "Kensington",
+                            "birthplace": 2,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 8,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704194760000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 47,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "dde3fce8-5edb-4369-8a4c-fe537260b452"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "27",
+                            "name": "Donald",
+                            "gender": "Man",
+                            "color": "#FFDAB3",
+                            "area": "Pimlico",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704192060000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 16,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "7066615d-bfa1-4fcc-8190-6f5c68b26e9e"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "46",
+                            "name": "Mary",
+                            "gender": "Woman",
+                            "color": "#BAE1FF",
+                            "area": "Kidbrooke",
+                            "birthplace": 1,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704192060000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 16,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "17e236f1-f382-4e86-9649-0812cf4d8e24"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "19",
+                            "name": "Margaret",
+                            "gender": "Woman",
+                            "color": "#D7BAFF",
+                            "area": "Blackwall",
+                            "birthplace": 7,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704206640000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 54,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "1058e56f-9481-4e56-b42e-3752238fd04b"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "46",
+                            "name": "Mary",
+                            "gender": "Woman",
+                            "color": "#BAE1FF",
+                            "area": "Kidbrooke",
+                            "birthplace": 1,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704151860000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 56,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "115a5f6a-6137-40d6-9ff8-8fec5290a7d2"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "46",
+                            "name": "Mary",
+                            "gender": "Woman",
+                            "color": "#BAE1FF",
+                            "area": "Kidbrooke",
+                            "birthplace": 1,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704160140000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 20,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "52026f04-0482-4812-9f38-1b773c90a7d4"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "27",
+                            "name": "Donald",
+                            "gender": "Man",
+                            "color": "#FFDAB3",
+                            "area": "Pimlico",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704213300000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 18,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "13d3b587-97bd-48ac-a50c-a879433ab845"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "0",
+                            "name": "Lisa",
+                            "gender": "Woman",
+                            "color": "#FFB3BA ",
+                            "area": "Cyprus",
+                            "birthplace": 5,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 9,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704175500000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 47,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "1c407502-841e-48b7-afbf-3924c11393a2"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704220860000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 26,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "829f7c4a-c347-4607-8f59-3e2f233dc0a3"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "19",
+                            "name": "Margaret",
+                            "gender": "Woman",
+                            "color": "#D7BAFF",
+                            "area": "Blackwall",
+                            "birthplace": 7,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704221580000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 28,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "2e6e0b6b-9f4b-4fdc-9d54-f4b41687b28d"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "23",
+                            "name": "Meghan",
+                            "gender": "Woman",
+                            "color": "#FFC7E8",
+                            "area": "Kensington",
+                            "birthplace": 2,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 8,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704221580000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 28,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "43b8b301-8fa0-418d-9a46-cac3d324d067"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704221580000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 28,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "7e93eb61-0fbb-4c75-b476-f579ff023439"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704202560000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 52,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "d35772f1-e673-4ee3-986e-8c36e33cdf32"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "19",
+                            "name": "Margaret",
+                            "gender": "Woman",
+                            "color": "#D7BAFF",
+                            "area": "Blackwall",
+                            "birthplace": 7,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704202560000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 52,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "5bd6ec91-7b79-4c3d-be9f-b1af0b052629"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704143820000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 16,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "a829438b-98a2-407a-8a94-3926fa0bebad"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704157200000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 19,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "8f477f3f-fd42-4473-a7ce-452b334115a3"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "0",
+                            "name": "Lisa",
+                            "gender": "Woman",
+                            "color": "#FFB3BA ",
+                            "area": "Cyprus",
+                            "birthplace": 5,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 9,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704191280000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 21,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "4ebc1337-d806-4f65-b9c9-a5497ae5c19c"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "23",
+                            "name": "Meghan",
+                            "gender": "Woman",
+                            "color": "#FFC7E8",
+                            "area": "Kensington",
+                            "birthplace": 2,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 8,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704191280000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 21,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "83e23f6d-99fc-45c7-9328-16ba3e386ed0"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "46",
+                            "name": "Mary",
+                            "gender": "Woman",
+                            "color": "#BAE1FF",
+                            "area": "Kidbrooke",
+                            "birthplace": 1,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704163260000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 35,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "605ea9e5-475a-4470-949c-8b611a9c8b3c"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "19",
+                            "name": "Margaret",
+                            "gender": "Woman",
+                            "color": "#D7BAFF",
+                            "area": "Blackwall",
+                            "birthplace": 7,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704163260000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 35,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "f6f30858-13b5-425d-acf7-ad3c4b1860a2"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "27",
+                            "name": "Donald",
+                            "gender": "Man",
+                            "color": "#FFDAB3",
+                            "area": "Pimlico",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704163260000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 35,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "4c61781c-a9a6-4b2e-85e6-cfb4fb0be522"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "0",
+                            "name": "Lisa",
+                            "gender": "Woman",
+                            "color": "#FFB3BA ",
+                            "area": "Cyprus",
+                            "birthplace": 5,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 9,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704145260000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 10,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "a6053d17-56c6-413e-8f9c-a0c0f4cafd0b"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "19",
+                            "name": "Margaret",
+                            "gender": "Woman",
+                            "color": "#D7BAFF",
+                            "area": "Blackwall",
+                            "birthplace": 7,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704145260000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 10,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "811d52d1-9909-4783-8a51-d9f76b906bf2"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "46",
+                            "name": "Mary",
+                            "gender": "Woman",
+                            "color": "#BAE1FF",
+                            "area": "Kidbrooke",
+                            "birthplace": 1,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704145260000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 10,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "a5922da8-1061-4917-88cc-5d85f781d115"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "12",
+                            "name": "David",
+                            "gender": "Man",
+                            "color": "#BAFFC9",
+                            "area": "Hackney",
+                            "birthplace": 6,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704145260000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 10,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "97af8e5d-1cb1-4a74-8cf2-41aa1e43b69d"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "46",
+                            "name": "Mary",
+                            "gender": "Woman",
+                            "color": "#BAE1FF",
+                            "area": "Kidbrooke",
+                            "birthplace": 1,
+                            "inPrison": false,
+                            "inPrisonText": "No",
+                            "arrest": 1,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704173220000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 23,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "57be7aee-e943-4810-9c1c-0e48ca512ef4"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "17",
+                            "name": "Leo",
+                            "gender": "Man",
+                            "color": "#B3D9FF",
+                            "area": "Charlton",
+                            "birthplace": 5,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704173220000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 23,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "b48a1682-2fca-40f5-8c19-1e5059d7cd86"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": true
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "36",
+                            "name": "Howard",
+                            "gender": "Man",
+                            "color": "#FFDFBA",
+                            "area": "Blackwall",
+                            "birthplace": 6,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 2,
+                            "isRelated": true
+                        },
+                        "start_timestamp": 1704148200000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 23,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "33f18a01-e6fd-491d-a214-411ecab6a09f"
+                },
+                {
+                    "_source": {
+                        "entity1": {
+                            "label": "Caller",
+                            "value": "10",
+                            "name": "Bertha",
+                            "gender": "Woman",
+                            "color": "#FFFFBA",
+                            "area": "Plumster",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "entity2": {
+                            "label": "Receiver",
+                            "value": "27",
+                            "name": "Donald",
+                            "gender": "Man",
+                            "color": "#FFDAB3",
+                            "area": "Pimlico",
+                            "birthplace": 3,
+                            "inPrison": true,
+                            "inPrisonText": "Yes",
+                            "arrest": 4,
+                            "isRelated": false
+                        },
+                        "start_timestamp": 1704208380000.0,
+                        "relationship": [
+                            {
+                                "attributes": [
+                                    {
+                                        "label": "Duration (sec)",
+                                        "value": 32,
+                                        "type": "integer"
+                                    }
+                                ],
+                                "direction": "fromto"
+                            }
+                        ]
+                    },
+                    "_id": "425518f2-95a9-44cd-9f4d-028a8200a87a"
+                }
+            ]
+        }
+    }
+]
